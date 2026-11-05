@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Изображение товара">
+    <rect width="400" height="400" fill="#f1f3ee"/>
+    <rect x="120" y="100" width="160" height="180" rx="16" fill="none" stroke="#c3cbb8" stroke-width="8"/>
+    <circle cx="165" cy="145" r="14" fill="#c3cbb8"/>
+    <path d="M130 260l55-65 40 45 25-28 40 48z" fill="#c3cbb8"/>
+    <text x="200" y="330" font-family="Arial, sans-serif" font-size="16" fill="#8f978a" text-anchor="middle">ELECTRONICSS</text>
+</svg>
